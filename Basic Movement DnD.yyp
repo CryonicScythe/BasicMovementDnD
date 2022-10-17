@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"obj_Cyportato","path":"objects/obj_Cyportato/obj_Cyportato.yy",},"order":0,},
+    {"id":{"name":"spr_Cyportato_Idle","path":"sprites/spr_Cyportato_Idle/spr_Cyportato_Idle.yy",},"order":2,},
     {"id":{"name":"spr_Cyportato","path":"sprites/spr_Cyportato/spr_Cyportato.yy",},"order":0,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
